@@ -1,0 +1,13 @@
+{
+  "name": "sunosuraksha-android",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Android wrapper for SunoSuraksha: SIM SMS without internet + background monitoring",
+  "dependencies": {
+    "@capacitor/android": "^6.2.3",
+    "@capacitor/core": "^6.2.3"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^6.2.3"
+  }
+}

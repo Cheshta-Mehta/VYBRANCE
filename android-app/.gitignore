@@ -1,0 +1,4 @@
+node_modules/
+android/
+www/index.html
+www/native-bridge.js

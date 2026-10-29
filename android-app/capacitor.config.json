@@ -1,0 +1,6 @@
+{
+  "appId": "com.sunosuraksha.app",
+  "appName": "SunoSuraksha",
+  "webDir": "www",
+  "android": { "allowMixedContent": true }
+}
